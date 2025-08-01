@@ -1,2 +1,2 @@
-# Total_C-
+# Total_C++
 Everything I know in C++
